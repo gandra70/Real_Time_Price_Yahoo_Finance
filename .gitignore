@@ -9,6 +9,7 @@ ss2_script.py
 ss_script.py
 yho_script.py
 
+.External Libraries
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
