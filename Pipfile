@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+dash = "*"
+dash-renderer = "*"
+dash-html-components = "*"
+dash-core-components = "*"
+plotly = "*"
+pandas-finance = "*"
+pandas-datareader = "*"
+pandas = "*"
+pandas-compat = "*"
+matplotlib = "*"
+yahoo-finance = "*"
+nasdaq-stock-quote = "*"
+alpha-vantage = "*"
+
+[requires]
+python_version = "3.7"
